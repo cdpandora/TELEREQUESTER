@@ -16,7 +16,7 @@ A simple **Rust-based CLI** tool to interact with the Solana blockchain. This to
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/solana-wallet-cli.git
+git clone https://github.com/cdpandora/TELEREQUESTER.git
 cd TELEREQUESTER
 ```
 
